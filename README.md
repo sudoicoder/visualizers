@@ -4,7 +4,7 @@ Visualizers is a React application for visual demonstration of various algorithm
 
 ## Available Visualizers
 
-1. Sorting Visualizer
+### 1. Sorting Visualizer
 
 - Selection
 - Bubble
@@ -12,7 +12,7 @@ Visualizers is a React application for visual demonstration of various algorithm
 - Quick
 - Merge
 
-2. Path Finding Visualizer
+### 2. Path Finding Visualizer
 
 - Dijkstra
 
