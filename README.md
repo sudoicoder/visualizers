@@ -20,3 +20,4 @@ Visualizers is a React application for visual demonstration of various algorithm
 
 1. React
 2. Mantine
+3. React Router Dom
