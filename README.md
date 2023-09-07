@@ -19,5 +19,5 @@ Visualizers is a React application for visual demonstration of various algorithm
 ## Dependencies
 
 1. [React](https://react.dev/)
-2. Mantine
-3. React Router Dom
+2. [React Router Dom](https://reactrouter.com/)
+3. [Mantine](https://mantine.dev/)
